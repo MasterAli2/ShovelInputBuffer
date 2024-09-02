@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShovelInputBuffer", "ShovelInputBuffer\ShovelInputBuffer.csproj", "{5C581DDC-C66B-4A6A-BBAD-E1A2D3ECB94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C581DDC-C66B-4A6A-BBAD-E1A2D3ECB94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C581DDC-C66B-4A6A-BBAD-E1A2D3ECB94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C581DDC-C66B-4A6A-BBAD-E1A2D3ECB94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C581DDC-C66B-4A6A-BBAD-E1A2D3ECB94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20B0675-E5C4-4639-BDE0-2B4963FC031E}
+	EndGlobalSection
+EndGlobal

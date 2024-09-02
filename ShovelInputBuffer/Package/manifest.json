@@ -1,0 +1,9 @@
+{
+  "name": "Shovel_Input_Buffer",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/MasterAli2/ShovelInputBuffer",
+  "description": "A mod for Lethal Company that enables you to buffer the inputs of the shovel",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
